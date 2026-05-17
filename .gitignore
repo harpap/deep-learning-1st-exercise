@@ -1,3 +1,4 @@
 data
 best_cnn_model.pt
 best_pet_segmentation_cnn.pt
+best_dog_cat_classifier_cnn.pt
